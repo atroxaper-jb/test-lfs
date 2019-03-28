@@ -1,3 +1,3 @@
 # test-lfs
 
-Boom Boom
+Boom
